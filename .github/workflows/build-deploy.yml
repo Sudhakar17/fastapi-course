@@ -1,3 +1,4 @@
+# Secrets need to be added in the repository settings.
 name: Build and Deploy Code
 
 on: [push, pull_request]
